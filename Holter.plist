@@ -33,9 +33,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.hleh.tmholter</string>
+				<string>com.tmholter.HolterFemale</string>
 				<key>bundle-version</key>
-				<string>1.06</string>
+				<string>1.10</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
